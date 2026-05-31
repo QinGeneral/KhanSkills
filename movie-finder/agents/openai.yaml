@@ -1,0 +1,4 @@
+interface:
+  display_name: "Movie Finder"
+  short_description: "Search rrdynb movie resources and return Markdown or JSON."
+  default_prompt: "Use $movie-finder to search for a movie by keyword and return a Markdown resource list with synopsis, Douban/IMDB ratings, and cloud drive links."
