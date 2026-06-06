@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Team"
+  short_description: "Create personas and produce WeChat/Xiaohongshu writing."
+  default_prompt: "Use $writing-team to run the writing team role by role, saving each stage before producing WeChat HTML or Xiaohongshu cards."

@@ -1,0 +1,35 @@
+{
+  "theme": "classic",
+  "cards": [
+    {
+      "kicker": "AI · 开发者 · 普通人",
+      "title": "AI能不能\n替代软件\n开发者",
+      "subtitle": "代码生成已经不是瓶颈了。\n验证才是。",
+      "footerLabel": "乘法 · 除法 · 陷阱",
+      "footerTitle": "普通人的最佳路径"
+    },
+    {
+      "kicker": "乘法区",
+      "title": "AI让你\n效率翻倍",
+      "subtitle": "这些环节，放心交给AI。",
+      "items": [
+        {
+          "label": "i.",
+          "title": "原型设计和界面生成",
+          "body": "30秒一个可交互原型。前端界面是AI的舒适区。"
+        },
+        {
+          "label": "ii.",
+          "title": "简单代码生成",
+          "body": "功能单一的东西，AI已经很强了。但复杂功能要小心。"
+        },
+        {
+          "label": "iii.",
+          "title": "需求理解",
+          "body": "需求越清晰，验证越容易。"
+        }
+      ],
+      "quote": "把需求说清楚，是普通人用AI做软件ROI最高的一步。"
+    }
+  ]
+}
